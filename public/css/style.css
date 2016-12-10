@@ -1,0 +1,47 @@
+body{
+    background-image:url('/img/img_body.png');
+    font-family: 'Montserrat', sans-serif !important;
+}
+#div_login
+{
+    margin-top: 100px !important;
+    background: #fff;
+    border:1px solid #dcdcdc !important;
+    border-bottom: 4px solid #006495 !important;
+    padding: 2px !important;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.table{
+    background: #fff !important;
+}
+.navbar-default
+{
+    background: #006495 !important;
+    border:0px !important;
+    border-radius: 0px !important;
+}
+.navbar-brand
+{
+    color:#fff !important;
+}
+.navbar-right li a
+{
+    color:#fff !important;
+}
+.navbar-right li a:hover
+{
+    color:#006495 !important;
+    background: #fff !important;
+}
+thead
+{
+    background:#006495 !important;
+    color:#fff !important;
+}
+tbody tr:hover
+{
+    cursor: pointer;
+    color:#fff;
+    background:#006495 !important;
+}
